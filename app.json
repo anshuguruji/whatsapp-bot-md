@@ -1,6 +1,7 @@
 {
   "name": "levanter@5.2.3",
   "description": "",
+  "repository": "https://github.com/anshuguruji/whatsapp-bot-md",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
